@@ -1,0 +1,35 @@
+h2{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+
+.cabecera{
+    background-color: rgb(136, 146, 146);
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+ul{
+    list-style: none;
+    padding: 10px;
+    display: flex;
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    text-transform: uppercase;
+    color: black;
+}
+
+.cabecera li{
+
+}
+
+.cabecera li:hover{
+    color: blueviolet;
+}
